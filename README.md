@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      border-color: white
+    }
+    </style>
 
-You can use the [editor on GitHub](https://github.com/cbarraza93/cbarraza93-github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+  <h1>Christopher Barraza</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <p>My name is Christopher Barraza and I love to eat Tacos!</p>
 
-```markdown
-Syntax highlighted code block
+  <img src="https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9091.jpg" alt="Christopher Barraza" width="200" height="300" />
+  
+  <p>I am a Senior Manager of Revenue Integrity at MPOWER Health.
+    I am studying Data Analytics at UTSA Data Analytics Boot Camp. I am also a Notary and Notary Signing Agent for loan closings
+  </p>
 
-# Header 1
-## Header 2
-### Header 3
+  <ul>
+    <li><strong>Email:</strong> <a href="#-link goes here title is on left">cbarraza0193@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="https://github.com/cbarraza93">https://github.com/cbarraza93</a></li>
+    <li><strong>NSA Profile:</strong> <a href="#-link goes here title is on left">https://www.signingagent.com/profile/161360930</a></li>
+  </ul>
 
-- Bulleted
-- List
+  <table>
+    <tr>
+      <th>Tacos</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>Pastor</td>
+      <td>Transformers</td>
+      <td>COD: Black Ops 2</td>
+    </tr>
+    <tr>
+      <td>Asada</td>
+      <td>The Avengers</td>
+      <td>The Last of Us</td>
+    </tr>
+    <tr>
+      <td>Carnitas</td>
+      <td>The Matrix</td>
+      <td>Dragon Age: Origins</td>
+    </tr>
+  </table>
 
-1. Numbered
-2. List
+  <!-- Bonus link to last class page -->
+  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
 
-**Bold** and _Italic_ and `Code` text
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbarraza93/cbarraza93-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
