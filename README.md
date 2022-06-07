@@ -28,30 +28,30 @@
 
   <ul>
     <li><strong>Email:</strong> <a href="#-link goes here title is on left">cbarraza0193@gmail.com</a></li>
-    <li><strong>Github:</strong> <a href="https://github.com/cbarraza93">https://github.com/cbarraza93</a></li>
-    <li><strong>NSA Profile:</strong> <a href="#-link goes here title is on left">https://www.signingagent.com/profile/161360930</a></li>
+    <li><strong>Github:</strong> <a href="https://github.com/cbarraza93" target="blank">https://github.com/cbarraza93</a></li>
+    <li><strong>NSA Profile:</strong> <a href="https://www.signingagent.com/profile/161360930" target="blank">https://www.signingagent.com/profile/161360930</a></li>
   </ul>
 
   <table>
     <tr>
       <th>Tacos</th>
       <th>Movies</th>
-      <th>Games</th>
+      <th>Currently Watching</th>
     </tr>
     <tr>
       <td>Pastor</td>
       <td>Transformers</td>
-      <td>COD: Black Ops 2</td>
+      <td>Stranger Things</td>
     </tr>
     <tr>
       <td>Asada</td>
       <td>The Avengers</td>
-      <td>The Last of Us</td>
+      <td>Obi-Wan Kenobi</td>
     </tr>
     <tr>
       <td>Carnitas</td>
       <td>The Matrix</td>
-      <td>Dragon Age: Origins</td>
+      <td>Star-Wars (All of them)</td>
     </tr>
   </table>
 
