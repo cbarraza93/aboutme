@@ -4,7 +4,7 @@
     table, th, td {
       border: 1px solid black;
       border-collapse: collapse;
-      border-color: blue
+      border-color: blue;
       text-align: center;
     }
     </style>
